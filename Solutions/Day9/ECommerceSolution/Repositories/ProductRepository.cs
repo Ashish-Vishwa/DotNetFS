@@ -9,7 +9,7 @@ using System.IO;
 public class ProductRepository : IProductRepository
 {
     private readonly List<Product> _products = new List<Product>();
-    string path = @"C:\CodeBase-Nihilent\MyDotnetTraining\NihilentDotNetTraining\Solutions\Day9\ECommerceSolution\products.json";
+    string path = @"C:\Ashish\DotNetFS\NihilentDotNetTraining\Solutions\Day9\ECommerceSolution\products.json";
     public ProductRepository()
     {
 

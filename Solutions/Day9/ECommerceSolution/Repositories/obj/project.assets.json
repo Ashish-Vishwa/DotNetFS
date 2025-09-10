@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jagdish.gund\\.nuget\\packages\\": {}
+    "C:\\Users\\ashish.vishwakarma_7\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\Repositories\\Repositories.csproj",
-      "packagesPath": "C:\\Users\\jagdish.gund\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\Repositories\\obj\\",
+      "projectPath": "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\Repositories\\Repositories.csproj",
+      "packagesPath": "C:\\Users\\ashish.vishwakarma_7\\.nuget\\packages\\",
+      "outputPath": "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jagdish.gund\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ashish.vishwakarma_7\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\Entities\\Entities.csproj"
+            "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\Entities\\Entities.csproj"
             }
           }
         }

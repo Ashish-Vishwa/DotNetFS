@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\Entities\\Entities.csproj": {}
+    "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\Entities\\Entities.csproj": {
+    "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\jagdish.gund\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\Entities\\obj\\",
+        "projectPath": "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\ashish.vishwakarma_7\\.nuget\\packages\\",
+        "outputPath": "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jagdish.gund\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ashish.vishwakarma_7\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

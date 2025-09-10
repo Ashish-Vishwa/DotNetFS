@@ -499,19 +499,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jagdish.gund\\.nuget\\packages\\": {}
+    "C:\\Users\\ashish.vishwakarma_7\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\jagdish.gund\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\WebAPI\\obj\\",
+      "projectPath": "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\ashish.vishwakarma_7\\.nuget\\packages\\",
+      "outputPath": "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jagdish.gund\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ashish.vishwakarma_7\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -523,8 +523,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\Services\\Services.csproj": {
-              "projectPath": "C:\\CodeBase-Nihilent\\MyDotnetTraining\\NihilentDotNetTraining\\Solutions\\Day9\\ECommerceSolution\\Services\\Services.csproj"
+            "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\Services\\Services.csproj": {
+              "projectPath": "C:\\Ashish\\DotNetFS\\nihilentdotnettraining\\solutions\\day9\\ECommerceSolution\\Services\\Services.csproj"
             }
           }
         }
