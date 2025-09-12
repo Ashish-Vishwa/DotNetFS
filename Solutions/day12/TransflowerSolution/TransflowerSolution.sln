@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogEntities", "CatalogEntities\CatalogEntities.csproj", "{EB7C0E98-94C1-45B2-AC61-AC79480A4C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogRepositories", "CatalogRepositories\CatalogRepositories.csproj", "{DC574C3E-35A2-49FA-BA29-B3F8FD3D4701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogServices", "CatalogServices\CatalogServices.csproj", "{07FEB9ED-2D5C-449F-BCA2-A9DB9F618808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransflowerPortal", "TransflowerPortal\TransflowerPortal.csproj", "{AC7E4F9E-998A-4583-902C-412B700D2E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransflowerWebAPI", "TransflowerWebAPI\TransflowerWebAPI.csproj", "{03AAFB21-7399-4954-81A9-C549357A55C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7C0E98-94C1-45B2-AC61-AC79480A4C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7C0E98-94C1-45B2-AC61-AC79480A4C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7C0E98-94C1-45B2-AC61-AC79480A4C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7C0E98-94C1-45B2-AC61-AC79480A4C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC574C3E-35A2-49FA-BA29-B3F8FD3D4701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC574C3E-35A2-49FA-BA29-B3F8FD3D4701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC574C3E-35A2-49FA-BA29-B3F8FD3D4701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC574C3E-35A2-49FA-BA29-B3F8FD3D4701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07FEB9ED-2D5C-449F-BCA2-A9DB9F618808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FEB9ED-2D5C-449F-BCA2-A9DB9F618808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FEB9ED-2D5C-449F-BCA2-A9DB9F618808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FEB9ED-2D5C-449F-BCA2-A9DB9F618808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC7E4F9E-998A-4583-902C-412B700D2E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7E4F9E-998A-4583-902C-412B700D2E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7E4F9E-998A-4583-902C-412B700D2E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7E4F9E-998A-4583-902C-412B700D2E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E054D29-44D9-4103-8105-0EA5FF22659C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E054D29-44D9-4103-8105-0EA5FF22659C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E054D29-44D9-4103-8105-0EA5FF22659C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E054D29-44D9-4103-8105-0EA5FF22659C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03AAFB21-7399-4954-81A9-C549357A55C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AAFB21-7399-4954-81A9-C549357A55C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AAFB21-7399-4954-81A9-C549357A55C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AAFB21-7399-4954-81A9-C549357A55C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
